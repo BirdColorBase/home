@@ -14,7 +14,7 @@ The database contains files with readings of percent reflectance across the bird
 These data are licensed under the MIT license and are free to use with appropriate acknowledgment of this database (add ref).
 
 ## Acknowledgements
-BirdColorBase was originally started in 2017 by Thahn-Lan Gluckman and John Endler, who cleaned the original spectra and produced the binned files in this database. We thank the curators and collection managers of the following museums for access to specimens: American Museum of Natural History (New York), Australian National Wildlife Collection (Canberra), Field Museum of Natural History (Chicago), Louisiana State University Museum of Natural Science (Baton Rouge), Museum Victoria (Melbourne), and National Museum of Natural History (Washington, D.C.). 
+BirdColorBase was originally started in 2017 by Thahn-Lan Gluckman and John Endler, who cleaned the original spectra and produced the binned files in this database. We thank the curators and collection managers of the following museums for access to specimens: Academy of Natural Sciences (Philadelphia), American Museum of Natural History (New York), Auckland Museum, Australian National Wildlife Collection (Canberra), California Academy of Sciences (San Francisco), Field Museum of Natural History (Chicago), Louisiana State University Museum of Natural Science (Baton Rouge), Moore Lab of Zoology at Occidental College (Los Angeles), Museum National d'Historie Naturelle (Paris), Museum Victoria (Melbourne), Natural History Museum (Tring), and National Museum of Natural History (Washington, D.C.). 
 
 ## Contributors
 The source column in the data files refer to these contributors:
