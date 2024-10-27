@@ -19,21 +19,21 @@ BirdColorBase was originally started in 2017 by Thahn-Lan Gluckman and John Endl
 ## Contributors
 The source column in the data files refer to these contributors:
 
-Jessica K. Armenta
-Kevin Burns
-Gonçalo Cardoso
-James Dale
-Claire Doutrelant
-Peter O. Dunn
-Jamie Dunning
-Muir Eaton
-John Endler
-Amélie Fargevieille 
-Doris Gomez
-Rafael Maia
-Richard Prum
-Allison Shultz
-Mary C. Stoddard
+Jessica K. Armenta,
+Kevin Burns,
+Gonçalo Cardoso,
+James Dale,
+Claire Doutrelant,
+Peter O. Dunn,
+Jamie Dunning,
+Muir Eaton,
+John Endler,
+Amélie Fargevieille, 
+Doris Gomez,
+Rafael Maia,
+Richard Prum,
+Allison Shultz,
+Mary C. Stoddard,
 Linda A. Whittingham
 
 
