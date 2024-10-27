@@ -1,7 +1,7 @@
 # BirdColorBase
 A database of bird color data from spectrophotometry
 
-![example of spectrum](/spectrum.jpg)
+![example of spectrum](/birdcolorbase_logo.jpg)
 
 BirdColorBase is a database of "color" data from over 2500 species of birds from around the world.  
 
