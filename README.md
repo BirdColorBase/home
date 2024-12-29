@@ -11,7 +11,7 @@ Birds can see in the ultraviolet portion of the spectrum so spectrophotometers a
 The database contains files with readings of percent reflectance across the bird-visible spectrum (300 to 700 nm).  These spectra were averaged into 2 nm bins (eg, 300-302, 302-304 etc). Most of the data were collected using an Ocean Optics (Dunedin, Florida) USB2000 spectrophotometer and a PX-2 pulsed Xenon light source with the spectrophotometer probe illuminating and measuring at 90° to the plumage. Measurements were standardized to a white standard (WS-1, Ocean Optics), considered >98% reflective from 250 to 1500 nm wavelengths. Spectra are arranged in rows, one line for each species and "patch" on the bird.  Some patches were repeatedly measured which can be inferred from multiple measurements of the same "individual".
 
 ## File info
-There are two types of files: 1) metadata with information on species names and taxonomy and 2) raw spectra files. For ease of transfer, the files are also divided up by taxonomy so they are <25 Mb each.  These files will all be uploaded in the near future.
+There are separate files from different research groups to keep the file sizes relatively small for uploading. Each file contains metadata with information on species names and taxonomy, catalog informatiion where available and raw spectra (percent reflectance from 300 to 700 nm in 2 nm bins).  
 
 ## License
 These data are licensed under the MIT license and are free to use with appropriate acknowledgment of this database (add ref).
